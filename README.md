@@ -4,6 +4,8 @@
 
 🎓 Currently pursuing **M.Tech in Computer Science and Engineering** at **Amrita Vishwa Vidyapeetham**, with a strong foundation from **ITM Universe (B.Tech CSE)**.
 
+🚀 I'm passionate about building intelligent and efficient web applications, applying modern technologies like **MERN Stack**, **Django**, and **Machine Learning** to solve real-world problems.
+
 <!--
 **Madhvesh-Patel3241/Madhvesh-Patel3241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
