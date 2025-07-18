@@ -1,6 +1,8 @@
 <!-- ## Hi there 👋 -->
 
-# 👋 Hi, I'm Madhvesh Patel
+# Hi there! 👋 I'm Madhvesh Patel
+
+ ## 🚀 About Me
 
 🎓 Currently pursuing **M.Tech in Computer Science and Engineering** at **Amrita Vishwa Vidyapeetham**, with a strong foundation from **ITM Universe (B.Tech CSE)**.
 
