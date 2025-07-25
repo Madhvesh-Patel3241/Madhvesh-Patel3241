@@ -27,11 +27,19 @@ I'm a passionate **Full Stack Developer** and **Machine Learning enthusiast** cu
 ![Show Image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Show Image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- Data Science & ML
+ - Data Science & ML
 
 ![Show Image](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Show Image](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Show Image](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+ - Databases
+
+![Show Image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Show Image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
 
 <!--🎓 Currently pursuing **M.Tech in Computer Science and Engineering** at **Amrita Vishwa Vidyapeetham**, with a strong foundation from **ITM Universe (B.Tech CSE)**.-->
 <!--
