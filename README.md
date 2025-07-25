@@ -39,7 +39,7 @@ I'm a passionate **Full Stack Developer** and **Machine Learning enthusiast** cu
 ![Show Image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-
+## 🏆 Certifications
 
 <!--🎓 Currently pursuing **M.Tech in Computer Science and Engineering** at **Amrita Vishwa Vidyapeetham**, with a strong foundation from **ITM Universe (B.Tech CSE)**.-->
 <!--
