@@ -45,11 +45,11 @@ I'm a passionate **Full Stack Developer** and **Machine Learning enthusiast** cu
  - Basics of ABAP Programming on SAP BTP (Aug 2023)
 
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Show Image](https://github-readme-stats.vercel.app/api?username=Madhvesh-Patel3241&show_icons=true&theme=radical)
 
-![Show Image](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhvesh-Patel3241&layout=compact&theme=radical) -->
+![Show Image](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhvesh-Patel3241&layout=compact&theme=radical)
 
 
 <!--🎓 Currently pursuing **M.Tech in Computer Science and Engineering** at **Amrita Vishwa Vidyapeetham**, with a strong foundation from **ITM Universe (B.Tech CSE)**.-->
