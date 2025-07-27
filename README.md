@@ -54,7 +54,7 @@ I'm a passionate **Full Stack Developer** and **Machine Learning enthusiast** cu
 ## 🤝 Let's Connect!
 
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhvesh-patel-5a4904241)
-![mailto:patelmadhvesh@outlook.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelmadhvesh@outlook.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Madhvesh-Patel3241)
 
 <!--🎓 Currently pursuing **M.Tech in Computer Science and Engineering** at **Amrita Vishwa Vidyapeetham**, with a strong foundation from **ITM Universe (B.Tech CSE)**.-->
