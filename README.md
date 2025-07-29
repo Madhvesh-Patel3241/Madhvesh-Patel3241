@@ -48,7 +48,24 @@ I'm a passionate **Full Stack Developer** and **Machine Learning enthusiast** cu
 ## 📊 GitHub Stats
 
 ![Show Image](https://github-readme-stats.vercel.app/api?username=Madhvesh-Patel3241&show_icons=true&theme=radical)
+[Show Image](https://github-readme-streak-stats.herokuapp.com/?user=Madhvesh-Patel&theme=radical)
 ![Show Image](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhvesh-Patel3241&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Madhvesh-Patel3241&theme=onedark&title=-Issues,-Followers,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- 
+## 📈 Contribution Graph
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph  
+![Show Image](https://github-readme-activity-graph.vercel.app/graph?username=Madhvesh-Patel3241&theme=react-dark)
+
+## 💡 Random Dev Quote
+
+![Show Image](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🎲 Fun Fact Generator
+
+![Show Image](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🤝 Let's Connect!
 
