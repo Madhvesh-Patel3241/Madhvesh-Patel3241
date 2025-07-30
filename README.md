@@ -48,7 +48,6 @@ I'm a passionate **Full Stack Developer** and **Machine Learning enthusiast** cu
 ## 📊 GitHub Stats
 
 ![Show Image](https://github-readme-stats.vercel.app/api?username=Madhvesh-Patel3241&show_icons=true&theme=radical)
-[Show Image](https://github-readme-streak-stats.herokuapp.com/?user=Madhvesh-Patel&theme=radical)
 ![Show Image](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhvesh-Patel3241&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
@@ -66,7 +65,7 @@ I'm a passionate **Full Stack Developer** and **Machine Learning enthusiast** cu
 
 ## 🎲 Fun Fact Generator
 
-![Show Image](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Show Image](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)-->
 
 ## 🤝 Let's Connect!
 
