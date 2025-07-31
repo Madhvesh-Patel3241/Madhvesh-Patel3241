@@ -44,6 +44,9 @@ I'm a passionate **Full Stack Developer** and **Machine Learning enthusiast** cu
  - SAP Certified Application Associate - SAP Analytics Cloud (Dec 2022)
  - Basics of ABAP Programming on SAP BTP (Aug 2023)
 
+## Skill Badges
+
+![](https://img.shields.io/badge/Python-Expert-success?style=flat-square&logo=python)
 
 ## 📊 GitHub Stats
 
@@ -54,7 +57,7 @@ I'm a passionate **Full Stack Developer** and **Machine Learning enthusiast** cu
 
 ![Show Image](https://komarev.com/ghpvc/?username=Madhvesh-Patel3241&color=brightgreen&style=flat-square)
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Madhvesh-Patel3241&theme=onedark&title=-Issues,-Followers,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
