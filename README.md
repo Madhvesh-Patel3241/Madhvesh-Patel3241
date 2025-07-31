@@ -66,10 +66,10 @@ I'm a passionate **Full Stack Developer** and **Machine Learning enthusiast** cu
 ## 💡 Random Dev Quote
 
 ![Show Image](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!--
+
 ## 🎲 Fun Fact Generator
 
-![Show Image](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)-->
+![Show Image](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🤝 Let's Connect!
 
